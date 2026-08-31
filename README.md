@@ -1,3 +1,5 @@
-# Web Template for Mobile app 🧷
+<img src="./src/img/logo.svg" width="150">
 
-The simple website template for presenting a mobile application, including privacy policy pages and links to download the app from app stores.
+#
+
+### Web Site for Mobile app "Rafik"
