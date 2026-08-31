@@ -1,0 +1,72 @@
+{
+  "ru": {
+    "translation": {
+      "": "Meta ----------------------------------------",
+      "meta_title": "Rafik: Удобный тайм-трекер и статистика",
+      "meta_description": "Rafik — мобильное приложение для учета времени и контроля задач. Анализируйте свой день, находите «пожирателей времени» и повышайте личную продуктивность",
+      "meta_keywords": "Rafik, тайм-трекер, учет времени, контроль времени, статистика активности, продуктивность, управление временем, таймер задач, трекер привычек, хронометраж",
+      "meta_policy_title": "Rafik: Политика конфиденциальности",
+
+      "": "Langs ----------------------------------------",
+      "ru": "Русский",
+      "en": "Английский",
+
+      "": "Main section ----------------------------------------",
+      "main_title": "Удобный тайм-трекер для ваших задач",
+      "main_text": "Отслеживайте, на что уходит ваше время, и находите баланс каждый день",
+      "available": "Доступно в",
+
+      "": "Benefits section ----------------------------------------",
+      "benefits_title": "Почему это приложение?",
+      "benefits_text": "Ключевые преимущества, которые делают обучение эффективным",
+      "benefit1_title": "Запуск в один клик",
+      "benefit1_text": "Включайте таймер для любых дел и проектов без лишних действий",
+      "benefit2_title": "Подробная статистика",
+      "benefit2_text": "Следите за своей продуктивностью и анализируйте активность за любой период",
+      "benefit3_title": "Гибкие настройки",
+      "benefit3_text": "Настраивайте категории, цвета и иконки для удобного планирования",
+
+      "": "Footer section ----------------------------------------",
+      "policy": "Политика конфиденциальности",
+      "support": "По всем вопросам пишите на <a href='mailto:support@rdrxes.ru?subject=Rafik%20%7C%20Поддержка'>support@rdrxes.ru</a>",
+
+      "": "Policy ----------------------------------------",
+      "policy_full": "<p>Последнее обновление: 31 августа 2026 г.</p>\n<p>Данная страница предназначена для информирования посетителей о политике конфиденциальности, действующей в отношении мобильного приложения <b>Rafik</b> и веб-сайта <b>rdrxes.ru</b>, включая порядок сбора, использования и раскрытия информации.</p>\n<p>Использование приложения или посещение сайта означает согласие пользователя с условиями настоящей политики. Личная информация, при её наличии, может использоваться исключительно для обеспечения функционирования и улучшения сервисов. Передача такой информации третьим лицам не осуществляется, за исключением случаев, предусмотренных настоящей политикой конфиденциальности.</p>\n<hr/>\n<h5>1. Область действия</h5>\n<p>Данная политика конфиденциальности распространяется на:</p>\n<ul>\n<li>Мобильное приложение <b>Rafik</b> (Android).</li>\n<li>Сайт <b>rdrxes.ru</b>, служащий информационным ресурсом о приложении и хранилищем для этой политики.</li>\n</ul>\n<hr/>\n<h5>2. Сбор и использование данных</h5>\n<p><b>Приложение Rafik:</b></p>\n<p>Для удобства пользования нашим сервисом может потребоваться, чтобы вы предоставили определенную информацию (например, названия ваших задач). Запрашиваемая информация сохраняется исключительно локально на вашем устройстве и не передается разработчику.</p>\n<p>В приложении отсутствует система аккаунтов и профилей пользователей. Однако приложение использует сторонние сервисы, которые могут собирать обезличенную информацию для аналитики.</p>\n<ul>\n<li><b>Firebase Analytics</b> — для анонимной статистики использования приложения (например, количество запусков, взаимодействие с функциями таймера).</li>\n<li><b>Firebase Crashlytics</b> — для отслеживания и устранения программных ошибок.</li>\n</ul>\n<p>Эти сервисы могут собирать техническую информацию, такую как тип устройства, версия ОС, модель устройства и общее поведение пользователя в рамках приложения. Все данные собираются анонимно и не используются для идентификации личности.</p>\n<p>Подробнее о том, как Google обрабатывает данные: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a></p>\n<p><b>Сайт rdrxes.ru:</b></p>\n<p>Сайт не собирает и не обрабатывает какие-либо персональные данные, не использует куки и не содержит форм обратной связи.</p>\n<hr/>\n<h5>3. Безопасность</h5>\n<p>Приложение <b>Rafik</b> и сайт <b>rdrxes.ru</b> не собирают и не хранят персональные данные пользователей на своих серверах. Основной функционал приложения работает локально, а сайт выполняет исключительно информационную функцию.</p>\n<p>Автоматически собираемая техническая информация обрабатывается сторонними сервисами Firebase, предоставляемыми компанией Google. Эти сервисы применяют современные технические и организационные меры защиты, включая шифрование данных.</p>\n<p>Поскольку сбор персональных данных напрямую не осуществляется, риск несанкционированного доступа к личной информации исключен.</p>\n<hr/>\n<h5>4. Персональные данные детей</h5>\n<p>Использование cервиса не допускается лицами, не достигшими возраста полной дееспособности в соответствии с законодательством страны их гражданства. Персональные данные таких лиц не собираются и не обрабатываются без получения согласия их законного представителя.</p>\n<hr/>\n<h5>5. Контактная информация</h5>\n<p>Если у вас есть какие-либо вопросы или предложения, связанные с конфиденциальностью, можете связаться с разработчиком по электронной почте по адресу: <a href=\"mailto:support@rdrxes.ru\">support@rdrxes.ru</a></p>\n<hr/>\n<h5>6. Изменения политики</h5>\n<p>Политика конфиденциальности может время от времени обновляться. Все изменения будут опубликованы на этом сайте с обновлённой датой вступления в силу. Рекомендуем периодически проверять эту страницу для ознакомления с актуальной версией.</p>"
+    }
+  },
+  "en": {
+    "translation": {
+      "": "Meta ----------------------------------------",
+      "meta_title": "Rafik: Simple Time Tracker & Analytics",
+      "meta_description": "Rafik is a mobile app for time tracking and task management. Analyze your day, find time wasters, and boost your personal productivity",
+      "meta_keywords": "Rafik, time tracker, track time, time management, activity stats, productivity, task timer, habit tracker, time analytics, focus timer",
+      "meta_policy_title": "Rafik: Privacy Policy",
+
+      "": "Langs ----------------------------------------",
+      "ru": "Russian",
+      "en": "English",
+
+      "": "Main section ----------------------------------------",
+      "main_title": "Handy time tracker for your tasks",
+      "main_text": "Monitor where your time goes and find your balance every day",
+      "available": "Available in",
+
+      "": "Benefits section ----------------------------------------",
+      "benefits_title": "Why this app?",
+      "benefits_text": "Key advantages that make learning effective",
+      "benefit1_title": "One-click start",
+      "benefit1_text": "Start the timer for any tasks and projects with no extra effort",
+      "benefit2_title": "Detailed statistics",
+      "benefit2_text": "Track your productivity and analyze your activity for any period",
+      "benefit3_title": "Flexible settings",
+      "benefit3_text": "Customize categories, colors, and icons for comfortable planning",
+
+      "": "Footer section ----------------------------------------",
+      "policy": "Privacy Policy",
+      "support": "For any inquiries, contact us at <a href='mailto:support@rdrxes.ru?subject=Rafik%20%7C%20Support'>support@rdrxes.ru</a>",
+
+      "": "Policy ----------------------------------------",
+      "policy_full": "<p>Last updated: August 31, 2026</p>\n<p>This page is intended to inform visitors about the privacy policy regarding the mobile application <b>Rafik</b> and the website <b>rdrxes.ru</b>, including the collection, use, and disclosure of information</p>\n<p>Using the application or visiting the website signifies the user's consent to the terms of this policy. Personal information, if any, may be used solely to ensure the operation and improvement of the services. Such information is not transferred to third parties, except in cases provided for by this privacy policy</p>\n<hr/>\n<h5>1. Scope</h5>\n<p>This privacy policy applies to:</p>\n<ul>\n<li>The mobile application <b>Rafik</b> (Android)</li>\n<li>The website <b>rdrxes.ru</b>, which serves as an information resource about the application and a repository for this policy</li>\n</ul>\n<hr/>\n<h5>2. Data Collection and Use</h5>\n<p><b>Rafik Application:</b></p>\n<p>For a better experience while using our service, we may require you to provide certain information (e.g., names of your tasks). The requested information is retained exclusively locally on your device and is not transmitted to the developer</p>\n<p>The application does not have a system of user accounts and profiles. However, the app uses third-party services that may collect anonymized information for analytics</p>\n<ul>\n<li><b>Firebase Analytics</b> — for anonymous app usage statistics (e.g., number of launches, interaction with timer features)</li>\n<li><b>Firebase Crashlytics</b> — to track and fix software errors</li>\n</ul>\n<p>These services may collect technical information such as device type, OS version, device model, and general user behavior within the application. All data is collected anonymously and is not used to identify individuals</p>\n<p>Learn more about how Google processes data: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a></p>\n<p><b>rdrxes.ru Website:</b></p>\n<p>The website does not collect or process any personal data, does not use cookies, and does not contain feedback forms</p>\n<hr/>\n<h5>3. Security</h5>\n<p>The <b>Rafik</b> application and the <b>rdrxes.ru</b> website do not collect or store users' personal data on their servers. The core functionality of the app works locally, and the website serves an exclusively informational function</p>\n<p>Automatically collected technical information is processed by third-party Firebase services provided by Google. These services employ modern technical and organizational security measures, including data encryption</p>\n<p>Since direct collection of personal data is not carried out, the risk of unauthorized access to personal information is eliminated</p>\n<hr/>\n<h5>4. Children's Personal Data</h5>\n<p>The use of the service is not permitted for individuals who have not reached the age of full legal capacity in accordance with the laws of their country of citizenship. Personal data of such individuals is not collected or processed without the consent of their legal representative</p>\n<hr/>\n<h5>5. Contact Information</h5>\n<p>If you have any questions or suggestions regarding privacy, you can contact the developer via email at: <a href=\"mailto:support@rdrxes.ru\">support@rdrxes.ru</a></p>\n<hr/>\n<h5>6. Changes to the Policy</h5>\n<p>The privacy policy may be updated from time to time. All changes will be published on this website with an updated effective date. We recommend periodically checking this page to stay informed of the current version</p>"
+    }
+  }
+}

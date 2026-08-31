@@ -1,0 +1,96 @@
+@use "variables" as vars;
+
+// Tags
+html {
+  overflow-x: hidden;
+  box-sizing: border-box;
+  &.fixed {
+    overflow-y: hidden;
+  }
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  overflow-x: hidden;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: vars.$font;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: vars.$black;
+  background: vars.$bg;
+}
+
+a {
+  color: vars.$main;
+  transition: 0.2s;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+// ScrollBar
+::-webkit-scrollbar {
+  width: 5px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: vars.$main;
+}
+
+::-webkit-scrollbar-track {
+  background-color: vars.$white;
+}
+
+// Selection
+::selection {
+  background: rgba(vars.$main, 0.2);
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+// Buttons
+.btn {
+  user-select: none;
+  background-color: vars.$yellow;
+  padding: 14px 30px;
+  border-radius: 2px;
+  transition: 0.3s;
+  font-size: 16px !important;
+  line-height: 24px !important;
+  &:hover {
+    background-color: vars.$yellow;
+  }
+  &.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+  }
+  &:focus {
+    background-color: vars.$yellow;
+  }
+}
+
+a.btn {
+  color: vars.$black;
+  text-align: center;
+  &:hover {
+    text-decoration: none;
+  }
+}

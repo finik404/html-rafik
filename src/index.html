@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ru">
+  <!-- Meta -->
+  @@include('./blocks/main/head.html', { "title": "meta_title", })
+
+  <body>
+    <div class="container">
+      <!-- Headder -->
+      @@include('./blocks/header.html')
+
+      <!-- Main section -->
+      <section class="main">
+        <img src="./img/patterns/pattern1.svg" alt="pattern1" class="pattern" />
+
+        <div class="box">
+          <div class="content">
+            <h1 data-i18n="main_title"></h1>
+
+            <p class="text" data-i18n="main_text"></p>
+
+            <div class="btns">
+              <a
+                href="https://play.google.com/store/apps/details?id=com.dmitriybozhko.rafik"
+                class="store-btn"
+              >
+                <img src="./img/stores/google-play.svg" alt="Google Play" />
+                <div>
+                  <p class="pretitle" data-i18n="available"></p>
+                  <p class="label">Google Play</p>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="images">
+            <img
+              data-lang-src="img/screens/{lang}/screen1.png"
+              src="./img/screens/ru/screen1.png"
+              alt="screen1"
+              class="img1"
+            />
+            <img
+              data-lang-src="img/screens/{lang}/screen2.png"
+              src="./img/screens/ru/screen2.png"
+              alt="screen2"
+              class="img2"
+            />
+          </div>
+        </div>
+      </section>
+
+      <!-- Benefits section -->
+      <section class="benefits">
+        <img src="./img/patterns/pattern2.svg" alt="pattern1" class="pattern" />
+
+        <div class="box">
+          <div class="content">
+            <h2 data-i18n="benefits_title"></h2>
+            <p data-i18n="benefits_text"></p>
+          </div>
+
+          <div class="list">
+            <div class="item">
+              <div class="img">
+                <img src="./img/icons/icon1.svg" alt="icon1" />
+              </div>
+              <div class="item-context">
+                <h4 data-i18n="benefit1_title"></h4>
+                <p data-i18n="benefit1_text"></p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="./img/icons/icon2.svg" alt="icon2" />
+              </div>
+              <div class="item-context">
+                <h4 data-i18n="benefit2_title"></h4>
+                <p data-i18n="benefit2_text"></p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="img">
+                <img src="./img/icons/icon3.svg" alt="icon3" />
+              </div>
+              <div class="item-context">
+                <h4 data-i18n="benefit3_title"></h4>
+                <p data-i18n="benefit3_text"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Footer -->
+      @@include('./blocks/footer.html')
+
+      <!-- Scripts -->
+      @@include('./blocks/main/js.html')
+    </div>
+  </body>
+</html>
